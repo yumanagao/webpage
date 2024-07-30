@@ -1,0 +1,29 @@
+.section{
+    display:flex;
+    padding:auto;
+    padding:40px;
+    width:60%;
+    margin-left:500px;
+}
+.section .text{
+    margin:5px;
+    font-size:20px;
+}
+.section img {
+    height: 220px;
+    margin-left:220;
+    border-radius:3em;
+}
+body{
+    background-color:rgba(255, 166, 0, 0.465);
+}
+.url{
+    color:blue;
+    cursor:pointer;
+}
+#area{
+    background-image:rgba(255, 166, 0, 0.512);
+}
+.wrapper .business .course{
+    background-color:orange;
+}
